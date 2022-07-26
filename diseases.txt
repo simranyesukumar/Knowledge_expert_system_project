@@ -1,0 +1,23 @@
+Jaundice
+Alzheimers
+Arthritis
+Tuberculosis
+Asthma
+Sinusitis
+Epilepsy
+Heart Disease
+Diabetes
+Glaucoma
+Hyperthyroidism
+Heat Stroke
+Hypothermia
+Typhoid
+vitamin deficiency
+Vitamin B deficiency
+Calcium deficiency
+Lupus
+Tetanus
+Measles
+pertussis
+poliomyelitis
+Hypoglycaemia
