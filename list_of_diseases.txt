@@ -1,0 +1,52 @@
+Jaundice
+Alzheimers
+Arthritis
+Tuberculosis
+Asthma
+Sinusitis
+Epilepsy
+Heart Disease
+Diabetes
+Glaucoma
+Hyperthyroidism
+Heat Stroke
+Hypothermia
+Typhoid
+vitamin deficiency
+Vitamin B deficiency
+Calcium deficiency
+Lupus
+Tetanus
+Measles
+pertussis
+poliomyelitis
+Hypoglycaemia
+Allergic Rhinitis
+Alpha 1
+Fatty Liver Disease
+Bile Duct Disease
+Maxillary sinuses
+Deviated Septums
+Chronic Sinusitis without Polyps
+Chronic Sinusitis with Polyps
+Cerebral Spinal Fluid
+Swallowing Disorders
+Tonsillitis
+Voice Disorder
+Croup
+Laryngitis
+GERD
+Laryngeal Cancer
+Salivary Gland Diseases
+Sore Throat
+Strep Throat
+Influenza
+Common cold
+Small pox
+Chicken pox
+Mumps
+German measles
+AIDS
+Yellow fever
+Ebola
+Zika
